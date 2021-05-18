@@ -3,4 +3,5 @@ node {
 	echo "Test"
 	echo "Deploy"
 	echo "Integrate"
+	echo "last one"
 }
