@@ -8,4 +8,7 @@ node {
 	stage('Deploy') {
 		echo "Deploy"
 	}
+	stage('Integrate') {
+		echo "Integrate"
+	}
 }
